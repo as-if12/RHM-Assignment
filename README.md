@@ -1,11 +1,15 @@
 # Convolutional Neural Network
-
 ### [Live Demo](http://cnndigits.pythonanywhere.com/) 
 
 Objective of this work was to write the `Convolutional Neural Network` without using any Deep Learning Library to gain insights of what is actually happening and thus the algorithm is not optimised enough and hence is slow on large dataset like CIFAR-10.
 This piece of code could be used for `learning purpose` and could be implemented with trained parameter available in the respective folders for any testing applications like `Object Detection` and `Digit recognition`.<br/>
 `It's Accuracy on MNIST test set is above 97%.`
 
+DEMO:
+For the live demo click below:
+### [Live Demo](http://cnndigits.pythonanywhere.com/) 
+
+Or to run your system follow the following instructions:
 
 ## Getting Started 
 
@@ -37,11 +41,11 @@ Followings are also required if working/testing on the app.py
 * Clone the repository
 
 ```
-git clone https://github.com/zishansami102/CNN-from-Scratch
+git clone https://github.com/as-if12/RHM-Assignment
 ```
 
 * Downlad the dataset and copy that to it's corresponding folder(CIFAR-10/MNIST).
-* Move into the required directory (/CNN-from-Scratch/MNIST or /CNN-from-Scratch/CIFAR-10) and then run the following command to start training model
+* Move into the required directory and then run the following command to start training model
 
 ```
 python train.py
@@ -51,14 +55,12 @@ python train.py
 
 ### Application Testing/Running
 
-* In the the directory /CNN-from-Scratch run the following command.
+* In the the directory, run the following command.
 
 ```
 python app.py
 ```
-App will start running on the local server [http://127.0.0.1:5000/](http://127.0.0.1:5000/) as shown below : 
-
-![alt text](images/app_running.png)
+App will start running on the local server [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 
 
