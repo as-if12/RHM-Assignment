@@ -47,12 +47,7 @@ git clone https://github.com/zishansami102/CNN-from-Scratch
 python train.py
 ```
 
-Output:
 
-![alt text](images/training.png)
-
-
-* To load pre-trained models, change the pickle filename from 'output.pickle' to 'trained.pickle' in run.py: `line No. - 30-31` and comment out the training part form the code in run.py: `line No. - 42-111`
 
 ### Application Testing/Running
 
@@ -65,9 +60,7 @@ App will start running on the local server [http://127.0.0.1:5000/](http://127.0
 
 ![alt text](images/app_running.png)
 
-## Contributing
 
-Mail me at zishansami102@gmail.com if you want to contribute in this project
 
 ## Acknowledgments
 
