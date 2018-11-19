@@ -10,15 +10,6 @@ This piece of code could be used for `learning purpose` and could be implemented
 ![alt text](images/main.png)
 
 
-## Architecture
-
-INPUT - CONV1 - RELU - CONV2 - RELU- MAXPOOL - FC1 - OUT
-
-![alt text](images/archi_mnist.jpg)
-
-![alt text](images/archi_cifar.jpg)
-
-
 ## Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
