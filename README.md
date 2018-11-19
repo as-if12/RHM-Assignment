@@ -7,9 +7,6 @@ This piece of code could be used for `learning purpose` and could be implemented
 `It's Accuracy on MNIST test set is above 97%.`
 
 
-![alt text](images/main.png)
-
-
 ## Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
